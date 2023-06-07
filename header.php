@@ -28,7 +28,10 @@
                     </li>
                     <li class="nav-item">
                     <a class="nav-link active" href="product.php">Product</a>
-                    </li>          
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link active" href="googlecalendar.php">Events</a>
+                    </li>               
                 </ul>
             
                 <ul class="navbar-nav ms-auto">
